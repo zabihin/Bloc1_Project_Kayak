@@ -1,7 +1,11 @@
-# Bloc1_Project_Kayak
+# Project_Kayak
 project for Jedha Bootcamp Fullstack course
 
+Bloc n°1: Construction et alimentation d'une infrastructure de gestion de donnée
 
-video link: will be uploaded
+email : zabihin@gmail.com
 
-code: Bloc1_Project_Kayak/blob/main/Bloc_1_Plan_your_trip_with_Kayak_Zahra.ipynb
+video link : https://share.vidyard.com/watch/E1R8b5mnbzYin19Ho6uQBX?
+
+repository's URL : https://github.com/zabihin/Project_Kayak
+
